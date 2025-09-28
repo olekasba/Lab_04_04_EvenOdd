@@ -3,7 +3,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        int numToExamine = 5;
+        int numToExamine = 2;
         // program will then determine that since 2 mod 2 is 0 that numToExamine is Even.
         if (numToExamine % 2 == 0) {
             System.out.println(numToExamine + " is even ");
